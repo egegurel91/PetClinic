@@ -14,9 +14,9 @@
 	<name>petClinic</name>
 	<description>Pet Clinic</description>
 	<packaging>jar</packaging>
-	<properties>
+<!-- 	<properties>
 		<java.version>11</java.version>
-	</properties>
+	</properties> -->
 	<dependencies>
 
 		<dependency>
